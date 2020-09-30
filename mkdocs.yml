@@ -59,6 +59,7 @@ nav:
       - Click-Jacking Test: penTesting/clickJacking.md
       - htpasswd Generator: penTesting/htpasswd_Generator.md
       - Android Penetration Testing: penTesting/androidPT.md
+      - nmap CheatSheet: penTesting/nmapCheatSheet.md
   - Markdown CheatSheet:
       - Welcome: markdownCheatSheet/welcome.md
       - Headings: markdownCheatSheet/headings.md
@@ -79,16 +80,15 @@ nav:
       - License: about/license.md
 
 # Project information
-site_name: 3os
-site_url: https://3os.org/
+site_name: dev.3os.org
+site_url: https://dev.3os.org/
 site_author: Stas Yakobov
 site_description: >-
-  Collocation of technical documentation, guides, knowledge, examples and
-  tips...
+  dev site for testing content
 
 # Repository
-repo_name: fire1ce/3os.org
-repo_url: https://github.com/fire1ce/3os.org/
+repo_name: dev.3os.org
+repo_url: https://github.com/fire1ce/dev.3os.org
 edit_uri: edit/master/src/
 
 # Theme Configuration
@@ -117,17 +117,6 @@ plugins:
   - minify:
       minify_html: true
   # - git-revision-date-localized
-
-# Social Links and Comments
-extra:
-  disqus: 3os
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/fire1ce
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/stas-yakobov
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/3os.org
 
 # Extensions
 markdown_extensions:
