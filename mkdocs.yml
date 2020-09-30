@@ -1,65 +1,14 @@
 # Navigation
 nav:
   - Home: index.md
-  - Guides & Tools:
-      - Better Terminal Experience: guides/BetterTerminal.md
-      - Pi-Hole With DNS Over HTTPS: guides/pihole_dns.md
-      - Wifi QR Image Generator: guides/wifiQrGenerator.md
-      - Gmail Markas Read: guides/gmailMarkAsRead.md
-      - Raspberry Pi 3 Tor Access Point: raspberryPi/TOR-Pi.md
-      - Useful Links & Tools: guides/usefulLinks_Tools.md
-      - Synology DSM: guides/synology.md
-      - Ubiquiti EdgeRouter & Unifi: guides/ubiquiti.md
-      - Proxmox Virtualization: guides/proxmox.md
-  - Linux:
-      - General: linux/general/general.md
-      - SSH Hardening with RSA Keys: linux/SSH_Service_Security.md
-      - Centos 7: linux/centos7.md
-      - Centos 8: linux/centos8.md
-      - Ubuntu & Debian: linux/ubuntu.md
-      - Files: linux/general/files.md
-      - Memory & Swap: linux/general/memorySwap.md
-      - Linux LVM Partitions: linux/lvm.md
-      - Linux Services:
-          - cPanel & WHM: linux/services/cpanel.md
-          - CSF Firewall: linux/services/csf.md
-          - Nginx: linux/services/nginx.md
-          - Apache: linux/services/apache.md
-          - Sophos Firewall: linux/services/sophos.md
-          - Wordpress: linux/services/wordpress.md
-          - Esxi: linux/services/esxi.md
-          - Plesk: linux/services/plesk.md
-          - Postfix: linux/services/postfix.md
-  - macOS:
-      - General: macOS/general.md
-      - UI Tweaks: macOS/ui.md
-      - System Tweaks: macOS/system.md
-      - Applications Tweaks: macOS/applications.md
-      - BrewUp - macOS Auto Update: macOS/brewup.md
-      - Python macOS The Right Way: macOS/pythonTheRightWay.md
-  - Raspberry Pi:
-      - General: raspberryPi/piGeneral.md
-      - TorPi - Raspberry Pi Tor AP: raspberryPi/TOR-Pi.md
-      - Raspberry Pi Magic Mirror: raspberryPi/MagicMirror.md
   - Development:
+      - nmap Cheat Sheet: development/nmapCheatSheet.md
       - Git: development/git.md
       - Docker: development/dockerGeneral.md
       - Python: development/python.md
       - Ruby: development/ruby.md
       - npm & node: development/npm.md
       - Personal Docker Containers: development/dockerContainers.md
-  - Windows:
-      - Windows General: windows/windowsGeneral.md
-      - Windows Guides and How-To: windows/windowsGuides.md
-  - Penetration-Testing:
-      - General: penTesting/general.md
-      - Kali Linux: penTesting/kaliLinux.md
-      - VMware Fusion: penTesting/vmwareFusion.md
-      - IDD Generator & Validator: penTesting/iddGenerator.md
-      - Click-Jacking Test: penTesting/clickJacking.md
-      - htpasswd Generator: penTesting/htpasswd_Generator.md
-      - Android Penetration Testing: penTesting/androidPT.md
-      - nmap CheatSheet: penTesting/nmapCheatSheet.md
   - Markdown CheatSheet:
       - Welcome: markdownCheatSheet/welcome.md
       - Headings: markdownCheatSheet/headings.md
@@ -74,10 +23,6 @@ nav:
       - Emojis List: markdownCheatSheet/emoji.md
       - Embed External Sources: markdownCheatSheet/embedExternalSources.md
       - Metadata Per Page: markdownCheatSheet/metaData.md
-  - About:
-      - About: about/about.md
-      - Donation: about/donation.md
-      - License: about/license.md
 
 # Project information
 site_name: dev.3os.org
@@ -151,7 +96,7 @@ markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
       user: fire1ce
-      repo: 3os.org
+      repo: dev.3os.org
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
