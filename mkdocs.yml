@@ -2,11 +2,11 @@
 nav:
   - Home: index.md
   - Development:
+      - Test Page: development/testPage.md
       - nmap Cheat Sheet: development/nmapCheatSheet.md
       - Git: development/git.md
       - Docker: development/dockerGeneral.md
       - Python: development/python.md
-      - Ruby: development/ruby.md
       - npm & node: development/npm.md
       - Personal Docker Containers: development/dockerContainers.md
   - Markdown CheatSheet:
