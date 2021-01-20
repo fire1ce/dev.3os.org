@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://dev.3os.org/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://dev.3os.org/development/tmpPage1/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <loc>https://dev.3os.org/development/testPage/</loc>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://dev.3os.org/development/tmpPage2/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <loc>https://dev.3os.org/development/nmapCheatSheet/</loc>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://dev.3os.org/development/tmpPage3/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <loc>https://dev.3os.org/development/git/</loc>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://dev.3os.org/development/tmpPage4/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <loc>https://dev.3os.org/development/dockerGeneral/</loc>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://dev.3os.org/development/tmpPage5/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <loc>https://dev.3os.org/development/python/</loc>
+     <lastmod>2021-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://dev.3os.org/development/npm/</loc>
+     <lastmod>2021-01-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://dev.3os.org/development/dockerContainers/</loc>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/welcome/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/headings/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://dev.3os.org/markdownCheatSheet/textHighlighting/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <loc>https://dev.3os.org/markdownCheatSheet/emphasis/</loc>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/lineBreaks/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/lists/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/tables/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/links/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/images/</loc>
-     <lastmod>2020-10-12</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://dev.3os.org/markdownCheatSheet/codeBlocks/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/admonition/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/blockQuotes/</loc>
-     <lastmod>2020-10-12</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://dev.3os.org/markdownCheatSheet/icons/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/emoji/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/embedExternalSources/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://dev.3os.org/markdownCheatSheet/metaData/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2021-01-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
