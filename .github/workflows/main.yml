@@ -31,4 +31,5 @@ jobs:
 
         with:
           branch: gh-pages
-          folder: out 
+          folder: out
+          force: true
