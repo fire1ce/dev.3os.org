@@ -7,7 +7,7 @@ on:
 
 permissions:
   contents: write
-  
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -31,4 +31,4 @@ jobs:
 
         with:
           branch: gh-pages
-          folder: content  # Adjust with the directory containing the exported static site if it's not 'out'
+          folder: out  # Adjust with the directory containing the exported static site if it's not 'out'
