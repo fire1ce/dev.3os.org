@@ -24,11 +24,11 @@ jobs:
         run: npm install
       
       - name: Build and Export
-        run: npm run build && npm run export  # Adjust if your project uses different commands
+        run: npm run export
       
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
 
         with:
           branch: gh-pages
-          folder: out  # Adjust with the directory containing the exported static site if it's not 'out'
+          folder: out 
