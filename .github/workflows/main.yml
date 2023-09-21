@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main  # Adjust with the name of your default branch if it's not 'main'
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 permissions:
@@ -28,9 +27,11 @@ jobs:
       - name: Build and Export
         run: npm run export
       
+      - name: Create .nojekyll file
+        run: touch out/.nojekyll
+      
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
-
         with:
           branch: gh-pages
           folder: out
