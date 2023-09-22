@@ -5,7 +5,8 @@ const config = {
   domain: "dev.3os.org",
   navLinks: [
     { href: "/", name: "Home"},
-    { href: "/about", name: "About" }
+    { href: "/about", name: "About" },
+    { href: "/docs", name: "Docs" },
   ],
   showToc: true,
   showEditLink: true,
