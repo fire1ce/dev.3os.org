@@ -4,6 +4,7 @@
 
 this is a h2 paragraph
 
+
 ```shell
 shell code snippet
 cd ~/
