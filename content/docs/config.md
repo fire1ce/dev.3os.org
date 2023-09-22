@@ -36,7 +36,7 @@ const userConfig = {
 
 ## Edit this page link
 
-If you keep your content in a public GitHub repository, and would like to encourage other people to contribute to it, you can show "Edit this page" button at the bottom of the page. It will link to the source file in your repository.
+If you keep your content in a public GitHub repository, and would like to encourage other people to contribute to it, you can show "Edit this page" button at the bottom of the page. It will link to the source file in your repository..
 
 In order to make it work, you'll first need to set these two properties in your `config.mjs` file:
 
