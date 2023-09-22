@@ -9,6 +9,7 @@ const config = {
   ],
   showToc: true,
   showEditLink: true,
-  editLinkRoot: "https://github.com/fire1ce/dev.3os.org/edit/main/site",
+  showSidebar: true,
+  editLinkRoot: "https://github.com/fire1ce/dev.3os.org/edit/main/content",
 };
 export default config;
