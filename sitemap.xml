@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>dev.3os.org/docs/config</loc>
+  </url>
+
+  <url>
     <loc>dev.3os.org/Hello%20World</loc>
   </url>
 
